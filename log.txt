@@ -1,0 +1,4 @@
+mkdir: no se puede crear el directorio «bin»: El fichero ya existe
+mkdir: no se puede crear el directorio «bin/img»: El fichero ya existe
+mkdir: no se puede crear el directorio «bin/out»: El fichero ya existe
+mkdir: no se puede crear el directorio «bin/x64»: El fichero ya existe
